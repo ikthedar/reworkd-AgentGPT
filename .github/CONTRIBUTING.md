@@ -62,3 +62,6 @@ Write clear and concise commit messages that briefly describe the changes made i
 
 Thank you once again for your interest in contributing to AgentGPT. We look forward to collaborating with you and creating an even better project together!
 
+
+## Ikthedar's Contribution
+Start setting up the repo on local machine.
